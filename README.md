@@ -21,7 +21,7 @@ Fully functional authentication system using **JWT**, including:
 ⚙️ Setup Instructions (Local Development)
 1. Clone the Repository
 ```bash
-git clone https://github.com/PravanshuSamadhiya/TaskTimer.git
+git clone https://github.com/Piyush9902/Task-Timer.git
 cd TaskTimer
 ```
 2. Install Frontend Dependencies
@@ -48,5 +48,5 @@ npm run dev
 ### 🧪 Test Credentials
 
 ```bash
-Email: pravanshu@gmail.com  
-Password: Abhi1234
+Email: aggarwal20025@gmail.com
+Password: Piyush1234
